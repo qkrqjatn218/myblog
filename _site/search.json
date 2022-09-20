@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "about",
+    "section": "",
+    "text": "review & share\nHi! My name is Beomsu Park, and I’m a collage student.\nI concern in Bioinformatics and I’m still studying. The purpose of the feed is to review what you have learned.\nHave a nice day!^_^\nInstead of distill, we launched a new blog using quarto. I usually use R and Python for data analysis."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "about",
+    "section": "Education",
+    "text": "Education\nB.S in Computer science | March 2017 - December 2019\nB.S. in Applied Mathematics | March 2020 - Present (Expected 2024)"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "about",
+    "section": "Experience",
+    "text": "Experience\nInternship in Zarathucorp"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "review & share",
+    "section": "",
+    "text": "statistics\n\n\n\n\n기본적인 통계 용어를 알아보겠습니다\n\n\n\n\n\n\nSep 7, 2022\n\n\nBeomsu Park\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nlinux\n\n\n\n\nLinux에 대해 소개하고 기본적인 명령어를 파악해보겠습니다.\n\n\n\n\n\n\nAug 25, 2022\n\n\nBeomsu Park\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/22-08-25/22-08-25.html",
+    "href": "posts/22-08-25/22-08-25.html",
+    "title": "Linux 기초",
+    "section": "",
+    "text": "CitationBibTeX citation:@online{park2022,\n  author = {Beomsu Park},\n  title = {Linux {기초}},\n  date = {2022-08-25},\n  url = {https://blog.qkrqjatn218.com/posts/22-08-25/22-08-25.html},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nBeomsu Park. 2022. “Linux 기초.” August 25, 2022. https://blog.qkrqjatn218.com/posts/22-08-25/22-08-25.html."
+  },
+  {
+    "objectID": "posts/22-09-07/22-09-07.html",
+    "href": "posts/22-09-07/22-09-07.html",
+    "title": "본격적인 통계를 하기 전 준비운동",
+    "section": "",
+    "text": "평균\n대표적으로 평균을 산술평균(arithmetic mean), 기하평균(geometric mean)으로 나눌 수 있다. 산술평균은 우리가 익히 아는 평균이다. 값들을 더하고 더한 갯수 만큼 나눠주면 된다.\n\\[a+b\\over2\\]\n\\[ \\overline x= {\\displaystyle\\sum{x_i}\\over n} \\]\n기하평균은 산술평균과는 다르게 곱의 평균이라고 할 수 있다. 기하평균은 평균변화량을 구할 때 사용한다. 환율의 변화량을 통하여 기하평균을 이해하여 보자.\n\n\n\n$$\n\n\n\n\n1개월 | 2개월 | 3개월 |\n\n\n\n\n\n\n\nCitationBibTeX citation:@online{park2022,\n  author = {Beomsu Park},\n  title = {본격적인 {통계를} {하기} {전} {준비운동}},\n  date = {2022-09-07},\n  url = {https://blog.qkrqjatn218.com/posts/22-09-07/22-09-07.html},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nBeomsu Park. 2022. “본격적인 통계를 하기 전 준비운동.”\nSeptember 7, 2022. https://blog.qkrqjatn218.com/posts/22-09-07/22-09-07.html."
+  }
+]

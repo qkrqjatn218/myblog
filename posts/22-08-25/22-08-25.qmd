@@ -1,0 +1,39 @@
+---
+title: "Linux 기초"
+description: "Linux에 대해 소개하고 기본적인 명령어를 파악해보겠습니다."
+image: linux-22617.png
+categories:
+  - linux
+author: 
+  - name: "Beomsu Park"
+    url: https://github.com/qkrqjatn218/
+date: 2022-08-25
+editor: visual
+draft: false
+---
+
+## linux 특징
+
+### Portability
+
+-   C언어로 작성되어 다양한 H/W에 적용이 가능한 운영체제
+
+-   cpu에 따라 호환되는 버전을 사용하면 다양한 플랫폼에서 운용이 가능
+
+### Free software
+
+-   GNU GPL(General Public Licence)를 선택하여 소스코드를 자유롭게 변형 가능
+
+-   단, 실행한 프로그램과 소스코드를 함께 배포
+
+### muti-user
+
+-   다수에 사용자가 하나의 시스템 자원에 접근 가능
+
+### muti-programming
+
+-   다수 프로그램을 메모리에 적재하고 동시 실행 가능
+
+### Hierarchical File System
+
+-   

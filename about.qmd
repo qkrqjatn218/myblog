@@ -1,0 +1,33 @@
+---
+title: "about"
+image: img/m.jpg
+about:
+  template: trestles
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/qkrqjatn218
+    - icon: github
+      text: Github
+      href: https://github.com/qkrqjatn218
+---
+
+review & share
+
+Hi! My name is Beomsu Park, and I'm a collage student.
+
+I concern in Bioinformatics and I'm still studying. The purpose of the feed is to review what you have learned.
+
+Have a nice day!\^\_\^
+
+Instead of ***distill***, we launched a new blog using ***quarto***. I usually use R and Python for data analysis.
+
+## Education
+
+B.S in Computer science \| March 2017 - December 2019
+
+B.S. in Applied Mathematics \| March 2020 - Present (Expected 2024)
+
+## Experience
+
+Internship in [Zarathucorp](https://zarathu.com)

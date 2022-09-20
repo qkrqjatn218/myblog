@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>PARK BEOM SU</title>
+<link>https://blog.qkrqjatn218.com/index.html</link>
+<atom:link href="https://blog.qkrqjatn218.com/index.xml" rel="self" type="application/rss+xml"/>
+<description>News, insights, and in-depth case studies from PARK BEOM SU</description>
+<generator>quarto-1.0.37</generator>
+<lastBuildDate>Tue, 06 Sep 2022 15:00:00 GMT</lastBuildDate>
+<item>
+  <title>본격적인 통계를 하기 전 준비운동</title>
+  <dc:creator>Beomsu Park</dc:creator>
+  <link>https://blog.qkrqjatn218.com/posts/22-09-07/22-09-07.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="통계란..통계의-함정" class="level1">
+<h1>통계란?..통계의 함정?</h1>
+<p>21세기에 진입하면서 더욱 많은 데이터들이 쌓여가고 있다. 단순히 데이터가 많은 것은 의미가 없고 오히려 사람들에게 혼란을 줄 수 있기 때문에, 통계적 이론에 대한 지식이 있어야 된다고 생각한다. 현대사회에서는 거의 모든 분야에서 사용하고 있는 학문이라고 해도 과언이 아니다. 조금만 관심을 갖고 배운다면 의미없는 통계자료를 분별해낼 수 있을 것이다. 이것은 매우 중요하다고 생각한다. <em>정확한 정보가 필요한 우리에게.</em></p>
+</section>
+<section id="평균" class="level1">
+<h1>평균</h1>
+<p>대표적으로 평균을 산술평균(arithmetic mean), 기하평균(geometric mean)으로 나눌 수 있다. 산술평균은 우리가 익히 아는 평균이다. 값들을 더하고 더한 갯수 만큼 나눠주면 된다.</p>
+<p><img src="https://latex.codecogs.com/png.latex?a+b%5Cover2"></p>
+<p><img src="https://latex.codecogs.com/png.latex?%20%5Coverline%20x=%20%7B%5Cdisplaystyle%5Csum%7Bx_i%7D%5Cover%20n%7D%20"></p>
+<p>기하평균은 산술평균과는 다르게 곱의 평균이라고 할 수 있다. 기하평균은 평균변화량을 구할 때 사용한다. 환율의 변화량을 통하여 기하평균을 이해하여 보자.</p>
+<table class="table">
+<thead>
+<tr class="header">
+<th style="text-align: left;">$</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">1개월 | 2개월 | 3개월 |</td>
+</tr>
+</tbody>
+</table>
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{park2022,
+  author = {Beomsu Park},
+  title = {본격적인 {통계를} {하기} {전} {준비운동}},
+  date = {2022-09-07},
+  url = {https://blog.qkrqjatn218.com/posts/22-09-07/22-09-07.html},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-park2022" class="csl-entry quarto-appendix-citeas">
+Beomsu Park. 2022. <span>“본격적인 통계를 하기 전 준비운동.”</span>
+September 7, 2022. <a href="https://blog.qkrqjatn218.com/posts/22-09-07/22-09-07.html">https://blog.qkrqjatn218.com/posts/22-09-07/22-09-07.html</a>.
+</div></div></section></div> ]]></description>
+  <category>statistics</category>
+  <guid>https://blog.qkrqjatn218.com/posts/22-09-07/22-09-07.html</guid>
+  <pubDate>Tue, 06 Sep 2022 15:00:00 GMT</pubDate>
+  <media:content url="https://blog.qkrqjatn218.com/posts/22-09-07/statistics.png" medium="image" type="image/png" height="43" width="144"/>
+</item>
+<item>
+  <title>Linux 기초</title>
+  <dc:creator>Beomsu Park</dc:creator>
+  <link>https://blog.qkrqjatn218.com/posts/22-08-25/22-08-25.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="linux-특징" class="level2">
+<h2 class="anchored" data-anchor-id="linux-특징">linux 특징</h2>
+<section id="portability" class="level3">
+<h3 class="anchored" data-anchor-id="portability">Portability</h3>
+<ul>
+<li><p>C언어로 작성되어 다양한 H/W에 적용이 가능한 운영체제</p></li>
+<li><p>cpu에 따라 호환되는 버전을 사용하면 다양한 플랫폼에서 운용이 가능</p></li>
+</ul>
+</section>
+<section id="free-software" class="level3">
+<h3 class="anchored" data-anchor-id="free-software">Free software</h3>
+<ul>
+<li><p>GNU GPL(General Public Licence)를 선택하여 소스코드를 자유롭게 변형 가능</p></li>
+<li><p>단, 실행한 프로그램과 소스코드를 함께 배포</p></li>
+</ul>
+</section>
+<section id="muti-user" class="level3">
+<h3 class="anchored" data-anchor-id="muti-user">muti-user</h3>
+<ul>
+<li>다수에 사용자가 하나의 시스템 자원에 접근 가능</li>
+</ul>
+</section>
+<section id="muti-programming" class="level3">
+<h3 class="anchored" data-anchor-id="muti-programming">muti-programming</h3>
+<ul>
+<li>다수 프로그램을 메모리에 적재하고 동시 실행 가능</li>
+</ul>
+</section>
+<section id="hierarchical-file-system" class="level3">
+<h3 class="anchored" data-anchor-id="hierarchical-file-system">Hierarchical File System</h3>
+<ul>
+<li></li>
+</ul>
+
+
+</section>
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{park2022,
+  author = {Beomsu Park},
+  title = {Linux {기초}},
+  date = {2022-08-25},
+  url = {https://blog.qkrqjatn218.com/posts/22-08-25/22-08-25.html},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-park2022" class="csl-entry quarto-appendix-citeas">
+Beomsu Park. 2022. <span>“Linux 기초.”</span> August 25, 2022. <a href="https://blog.qkrqjatn218.com/posts/22-08-25/22-08-25.html">https://blog.qkrqjatn218.com/posts/22-08-25/22-08-25.html</a>.
+</div></div></section></div> ]]></description>
+  <category>linux</category>
+  <guid>https://blog.qkrqjatn218.com/posts/22-08-25/22-08-25.html</guid>
+  <pubDate>Wed, 24 Aug 2022 15:00:00 GMT</pubDate>
+  <media:content url="https://blog.qkrqjatn218.com/posts/22-08-25/linux-22617.png" medium="image" type="image/png" height="61" width="144"/>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,59 @@
+project:
+  type: website
+
+website:
+  title: "PARK BEOM SU"
+  description: "News, insights, and in-depth case studies from PARK BEOM SU"
+  site-url: https://blog.qkrqjatn218.com
+  repo-url: https://github.com/qkrqjatn218/myblog
+  favicon: img/logo_in.png
+  page-navigation: true
+  google-analytics: ""
+  page-footer:
+    background: "#0f3c41"
+    center: 
+      - text: © Copyright qkrqjatn218
+        href: https://www.github.com/qkrqjatn218
+      - text: Software licensed under the MIT License.
+        href: https://raw.githubusercontent.com/qkrqjatn218/myblog/master/LICENSE
+  navbar:
+    pinned: true
+    background: "#0f3c41"
+    logo: img/logo_in.png
+    right:
+      - text: "Home"
+        href: index.html
+      - about.qmd
+      - icon: github
+        href: https://github.com/qkrqjatn218
+      - icon: linkedin
+        href: https://www.linkedin.com/in/qkrqjatn218
+      - icon: rss
+        href: index.xml
+        aria-label: RSS
+  
+  search:
+    location: navbar
+    type: overlay
+
+
+format:
+  html:
+    smooth-scroll: true
+    theme: yeti
+    css: styles.css
+    toc: true
+    toc-location: "left"
+    code-link: true
+    citation-location: document
+    citation: true
+    citeproc: true
+    reference-location: document
+    footnotes-hover: true
+
+editor: visual
+
+
+comments: 
+  giscus: 
+    repo: qkrqjatn218/giscus-blog
