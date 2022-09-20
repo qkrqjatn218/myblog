@@ -32,13 +32,13 @@
     "href": "posts/22-08-25/22-08-25.html",
     "title": "Linux 기초",
     "section": "",
-    "text": "CitationBibTeX citation:@online{park2022,\n  author = {Beomsu Park},\n  title = {Linux {기초}},\n  date = {2022-08-25},\n  url = {https://blog.qkrqjatn218.com/posts/22-08-25/22-08-25.html},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nBeomsu Park. 2022. “Linux 기초.” August 25, 2022. https://blog.qkrqjatn218.com/posts/22-08-25/22-08-25.html."
+    "text": "CitationBibTeX citation:@online{park2022,\n  author = {Beomsu Park},\n  title = {Linux {기초}},\n  date = {2022-08-25},\n  url = {https://qkrqjatn218.github.io/myblog//posts/22-08-25/22-08-25.html},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nBeomsu Park. 2022. “Linux 기초.” August 25, 2022. https://qkrqjatn218.github.io/myblog//posts/22-08-25/22-08-25.html."
   },
   {
     "objectID": "posts/22-09-07/22-09-07.html",
     "href": "posts/22-09-07/22-09-07.html",
     "title": "본격적인 통계를 하기 전 준비운동",
     "section": "",
-    "text": "평균\n대표적으로 평균을 산술평균(arithmetic mean), 기하평균(geometric mean)으로 나눌 수 있다. 산술평균은 우리가 익히 아는 평균이다. 값들을 더하고 더한 갯수 만큼 나눠주면 된다.\n\\[a+b\\over2\\]\n\\[ \\overline x= {\\displaystyle\\sum{x_i}\\over n} \\]\n기하평균은 산술평균과는 다르게 곱의 평균이라고 할 수 있다. 기하평균은 평균변화량을 구할 때 사용한다. 환율의 변화량을 통하여 기하평균을 이해하여 보자.\n\n\n\n$$\n\n\n\n\n1개월 | 2개월 | 3개월 |\n\n\n\n\n\n\n\nCitationBibTeX citation:@online{park2022,\n  author = {Beomsu Park},\n  title = {본격적인 {통계를} {하기} {전} {준비운동}},\n  date = {2022-09-07},\n  url = {https://blog.qkrqjatn218.com/posts/22-09-07/22-09-07.html},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nBeomsu Park. 2022. “본격적인 통계를 하기 전 준비운동.”\nSeptember 7, 2022. https://blog.qkrqjatn218.com/posts/22-09-07/22-09-07.html."
+    "text": "평균\n대표적으로 평균을 산술평균(arithmetic mean), 기하평균(geometric mean)으로 나눌 수 있다. 산술평균은 우리가 익히 아는 평균이다. 값들을 더하고 더한 갯수 만큼 나눠주면 된다.\n\\[a+b\\over2\\]\n\\[ \\overline x= {\\displaystyle\\sum{x_i}\\over n} \\]\n기하평균은 산술평균과는 다르게 곱의 평균이라고 할 수 있다. 기하평균은 평균변화량을 구할 때 사용한다. 환율의 변화량을 통하여 기하평균을 이해하여 보자.\n\n\n\n$$\n\n\n\n\n1개월 | 2개월 | 3개월 |\n\n\n\n\n\n\n\nCitationBibTeX citation:@online{park2022,\n  author = {Beomsu Park},\n  title = {본격적인 {통계를} {하기} {전} {준비운동}},\n  date = {2022-09-07},\n  url = {https://qkrqjatn218.github.io/myblog//posts/22-09-07/22-09-07.html},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nBeomsu Park. 2022. “본격적인 통계를 하기 전 준비운동.”\nSeptember 7, 2022. https://qkrqjatn218.github.io/myblog//posts/22-09-07/22-09-07.html."
   }
 ]
