@@ -4,7 +4,7 @@ project:
 website:
   title: "PARK BEOM SU"
   description: "News, insights, and in-depth case studies from PARK BEOM SU"
-  site-url: https://qkrqjatn218.github.io/myblog/
+  site-url: https://qkrqjatn218.github.io/myblog/_site
   repo-url: https://github.com/qkrqjatn218/myblog
   favicon: img/logo_in.png
   page-navigation: true

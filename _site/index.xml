@@ -6,15 +6,15 @@
       version="2.0">
 <channel>
 <title>PARK BEOM SU</title>
-<link>https://qkrqjatn218.github.io/myblog/index.html</link>
-<atom:link href="https://qkrqjatn218.github.io/myblog/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://qkrqjatn218.github.io/myblog/_site/index.html</link>
+<atom:link href="https://qkrqjatn218.github.io/myblog/_site/index.xml" rel="self" type="application/rss+xml"/>
 <description>News, insights, and in-depth case studies from PARK BEOM SU</description>
 <generator>quarto-1.0.37</generator>
 <lastBuildDate>Tue, 06 Sep 2022 15:00:00 GMT</lastBuildDate>
 <item>
   <title>본격적인 통계를 하기 전 준비운동</title>
   <dc:creator>Beomsu Park</dc:creator>
-  <link>https://qkrqjatn218.github.io/myblog/posts/22-09-07/22-09-07.html</link>
+  <link>https://qkrqjatn218.github.io/myblog/_site/posts/22-09-07/22-09-07.html</link>
   <description><![CDATA[ 
 
 
@@ -50,22 +50,22 @@
   author = {Beomsu Park},
   title = {본격적인 {통계를} {하기} {전} {준비운동}},
   date = {2022-09-07},
-  url = {https://qkrqjatn218.github.io/myblog//posts/22-09-07/22-09-07.html},
+  url = {https://qkrqjatn218.github.io/myblog/_site/posts/22-09-07/22-09-07.html},
   langid = {en}
 }
 </code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-park2022" class="csl-entry quarto-appendix-citeas">
 Beomsu Park. 2022. <span>“본격적인 통계를 하기 전 준비운동.”</span>
-September 7, 2022. <a href="https://qkrqjatn218.github.io/myblog//posts/22-09-07/22-09-07.html">https://qkrqjatn218.github.io/myblog//posts/22-09-07/22-09-07.html</a>.
+September 7, 2022. <a href="https://qkrqjatn218.github.io/myblog/_site/posts/22-09-07/22-09-07.html">https://qkrqjatn218.github.io/myblog/_site/posts/22-09-07/22-09-07.html</a>.
 </div></div></section></div> ]]></description>
   <category>statistics</category>
-  <guid>https://qkrqjatn218.github.io/myblog/posts/22-09-07/22-09-07.html</guid>
+  <guid>https://qkrqjatn218.github.io/myblog/_site/posts/22-09-07/22-09-07.html</guid>
   <pubDate>Tue, 06 Sep 2022 15:00:00 GMT</pubDate>
-  <media:content url="https://qkrqjatn218.github.io/myblog/posts/22-09-07/statistics.png" medium="image" type="image/png" height="43" width="144"/>
+  <media:content url="https://qkrqjatn218.github.io/myblog/_site/posts/22-09-07/statistics.png" medium="image" type="image/png" height="43" width="144"/>
 </item>
 <item>
   <title>Linux 기초</title>
   <dc:creator>Beomsu Park</dc:creator>
-  <link>https://qkrqjatn218.github.io/myblog/posts/22-08-25/22-08-25.html</link>
+  <link>https://qkrqjatn218.github.io/myblog/_site/posts/22-08-25/22-08-25.html</link>
   <description><![CDATA[ 
 
 
@@ -113,16 +113,16 @@ September 7, 2022. <a href="https://qkrqjatn218.github.io/myblog//posts/22-09-07
   author = {Beomsu Park},
   title = {Linux {기초}},
   date = {2022-08-25},
-  url = {https://qkrqjatn218.github.io/myblog//posts/22-08-25/22-08-25.html},
+  url = {https://qkrqjatn218.github.io/myblog/_site/posts/22-08-25/22-08-25.html},
   langid = {en}
 }
 </code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-park2022" class="csl-entry quarto-appendix-citeas">
-Beomsu Park. 2022. <span>“Linux 기초.”</span> August 25, 2022. <a href="https://qkrqjatn218.github.io/myblog//posts/22-08-25/22-08-25.html">https://qkrqjatn218.github.io/myblog//posts/22-08-25/22-08-25.html</a>.
+Beomsu Park. 2022. <span>“Linux 기초.”</span> August 25, 2022. <a href="https://qkrqjatn218.github.io/myblog/_site/posts/22-08-25/22-08-25.html">https://qkrqjatn218.github.io/myblog/_site/posts/22-08-25/22-08-25.html</a>.
 </div></div></section></div> ]]></description>
   <category>linux</category>
-  <guid>https://qkrqjatn218.github.io/myblog/posts/22-08-25/22-08-25.html</guid>
+  <guid>https://qkrqjatn218.github.io/myblog/_site/posts/22-08-25/22-08-25.html</guid>
   <pubDate>Wed, 24 Aug 2022 15:00:00 GMT</pubDate>
-  <media:content url="https://qkrqjatn218.github.io/myblog/posts/22-08-25/linux-22617.png" medium="image" type="image/png" height="61" width="144"/>
+  <media:content url="https://qkrqjatn218.github.io/myblog/_site/posts/22-08-25/linux-22617.png" medium="image" type="image/png" height="61" width="144"/>
 </item>
 </channel>
 </rss>
